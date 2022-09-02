@@ -2,7 +2,21 @@
 
 This repository holds the published releases for Amethyst Installer.
 
-> *TODO: Add cool screenshots here!*
+![image](https://user-images.githubusercontent.com/8508676/188240306-5e8e048c-c150-4925-9616-ccbd8db0267f.png)
+<details>
+<summary>More screenshots</summary>
+
+![image](https://user-images.githubusercontent.com/8508676/188240512-c986f784-74b4-4511-9e7d-6cf17c408f55.png)
+
+![image](https://user-images.githubusercontent.com/8508676/188240521-36a23a94-4a83-4760-9cde-6a3b8cf234e8.png)
+
+![image](https://user-images.githubusercontent.com/8508676/188240529-7cd6632d-4ef3-4747-a69b-2bdb50afd0d3.png)
+
+![image](https://user-images.githubusercontent.com/8508676/188240541-88b5e753-a63f-421f-b0e0-cb7c5df3f1fa.png)
+
+![image](https://user-images.githubusercontent.com/8508676/188240570-caa46c3f-923e-4f25-a219-dc4c3e2ccbce.png)
+
+</details>
 
 ## Setup
 
