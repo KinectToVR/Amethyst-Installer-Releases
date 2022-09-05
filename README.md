@@ -37,6 +37,21 @@ Download the latest release and run it. No really, it's that simple.
   - Describe what you did to encounter the bug
   
   - Send us your log files. You can find them by clicking the "View logs" button, then click the file path. The currently generated log file will also be selected, so that you can simply drag and drop it to us.
+  
+## What can it do?
+
+A long list of things this installer can do (or we're planning on making it do later):
+
+- Installing Amethyst.
+- Installing the Kinect for Windows 360 SDK and Toolkit silently.
+- `HttpClient` downloader with timeout support, and MD5 checksum verification (and optional caching, only in dev builds).
+- `amethyst://` protocol links. These are currently undocumented.
+- A multi-threaded sound engine that supports up to 8 voices.
+- Custom WPF theme to give bring the look and feel of WinUI3 to WPF.
+- Debug system.
+- Automagic fixes for common errors (most notably E_NUI_NOTPOWERED).
+- Detecting SteamVR setup automatically.
+- More stuff we have in the works.
 
 ## Source Code
 
