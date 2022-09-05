@@ -47,7 +47,7 @@ A long list of things this installer can do (or we're planning on making it do l
 - `HttpClient` downloader with timeout support, and MD5 checksum verification (and optional caching, only in dev builds).
 - `amethyst://` protocol links. These are currently undocumented.
 - A multi-threaded sound engine that supports up to 8 voices.
-- Custom WPF theme to give bring the look and feel of WinUI3 to WPF.
+- Custom WPF theme to bring the look and feel of WinUI3 to WPF.
 - Debug system.
 - Automagic fixes for common errors (most notably E_NUI_NOTPOWERED).
 - Detecting SteamVR setup automatically.
