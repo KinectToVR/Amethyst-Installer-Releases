@@ -1,13 +1,31 @@
 # Amethyst Installer Releases
 
-Amethyst is a Windows application for using various devices for body tracking in virtual reality (Specifically in SteamVR). It can be [extended with user-made plugins](https://github.com/KinectToVR/K2TrackingDevice-Samples) to support any device you wish.
+
+### How do I install or update Amethyst?
+[<img width="290px" src="https://get.microsoft.com/images/en-us%20light.svg">](https://www.microsoft.com/store/apps/9P7R8FGDDGDH)
+
+**Scroll further down for manual instructions.**  
+
+Amethyst is a Windows application for using various devices for body tracking in virtual reality. It can be [extended with user-made plugins](https://docs.k2vr.tech/en/dev/overview) to support any device you wish.
 
 This is a rewrite from the ground up, it is *not* based on KinectToVR/K2EX. It is a whole new app that doesn't carry the legacy baggage of K2EX. We were able to fix numerous bugs and streamline the experience. We hope you will enjoy it. If you like what you see and you wish to support future development, you can throw money at us with the [<img style="display:inline; height:26px;" src="https://user-images.githubusercontent.com/8508676/189487326-eff20178-77a2-4ea4-9798-d389e53501e4.png">](https://opencollective.com/k2vr) button.
   (We won't force you, though every expense is currently out of pocket.)
 
+## Manual setup
+
+If the Microsoft Store isn't available for you, for some reason:
+ - **Download 11835K2VRTeam.Amethyst_[...]_.Msix** from the [latest release](https://github.com/KinectToVR/Amethyst-Releases/releases/latest).
+ - **You're good to go!** Just go through the setup and start playing!
+
 ---
 
 This repository holds the published releases for Amethyst Installer.
+
+Amethyst Installer has been shut down in favor of Microsoft Store deployment and an integrated OOBE Setup.
+> As of August 9th 2023 Amethyst has finally been moved to the Microsoft Store, and is now at 1.2.5.0!
+
+This build of the Installer will only continue to show this notice and guide you to the Microsoft Store instead.
+If, for some reason, you want to use the Installer, please refer to [the docs](https://docs.k2vr.tech) for its launch uri's and generics.
 
 ![image](https://user-images.githubusercontent.com/8508676/188240306-5e8e048c-c150-4925-9616-ccbd8db0267f.png)
 <details>
@@ -59,10 +77,5 @@ A long list of things this installer can do (or we're planning on making it do l
 - Automagic fixes for common errors (most notably E_NUI_NOTPOWERED).
 - Detecting SteamVR setup automatically.
 - More stuff we have in the works.
-
-## Source Code
-
-Due the app's current state, I have decided to hide the source code until the app is finished.  
-If you really want it though, please ask us in the K2VR Community Discord.
 
 
